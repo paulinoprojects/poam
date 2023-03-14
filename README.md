@@ -1,1 +1,28 @@
-# poam
+# What is POAM
+
+- POAM stands for Plan of Action and Milestones, and it is an important document used in cybersecurity. 
+
+- A POAM is a roadmap that outlines the steps and actions needed to address identified security weaknesses, vulnerabilities, or deficiencies within an organization's information system.
+
+- POAM is a structured plan that helps organizations to prioritize and manage their cybersecurity risk effectively. It allows them to identify, track, and remediate security issues in a timely and effective manner, thereby reducing the likelihood of security breaches, data loss, or other cybersecurity incidents.
+
+- The POAM includes a comprehensive list of tasks that must be completed, the responsible parties for each task, and the due dates. It also includes milestones that indicate when certain tasks or objectives must be achieved, and how progress towards those objectives will be measured.
+
+
+# POA&M Document Criterias
+
+1. Identify the security weaknesses or deficiencies: The first step is to conduct a thorough assessment of the organization's information system to identify any vulnerabilities, weaknesses, or deficiencies. This can be done through vulnerability scanning, penetration testing, or other security assessments.
+
+2. Prioritize the weaknesses: Once you have identified the security weaknesses, you need to prioritize them based on the severity of the risk they pose to the organization. Consider the potential impact, likelihood of exploitation, and ease of remediation.
+
+3. Create a plan of action: For each prioritized weakness, create a plan of action that outlines the specific steps needed to address the issue. This plan should include a description of the weakness, the responsible parties, and a timeline for completion.
+
+4. Assign roles and responsibilities: Identify the individuals or teams responsible for completing each task in the plan. This may include members of the IT department, security professionals, or other stakeholders.
+
+5. Establish milestones: Set specific milestones or checkpoints that will be used to measure progress towards achieving the objectives outlined in the plan. These milestones should be realistic, achievable, and measurable.
+
+6. Determine resource requirements: Identify the resources needed to execute the plan, including personnel, funding, and technology. Ensure that the resources allocated are sufficient to complete the tasks within the specified timeframe.
+
+7. Establish monitoring and reporting procedures: Establish procedures to monitor progress towards achieving the milestones and reporting on the status of the plan. This may involve regular status meetings, progress reports, or other methods of communication.
+
+8. Review and update regularly: Finally, the POAM should be reviewed and updated regularly to ensure that it remains relevant and effective. As new vulnerabilities are identified or existing ones are mitigated, the plan should be updated to reflect these changes.
