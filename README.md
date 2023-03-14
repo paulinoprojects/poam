@@ -1,4 +1,4 @@
-# What is POAM
+# What is POA&M
 
 - POAM stands for Plan of Action and Milestones, and it is an important document used in cybersecurity. 
 
@@ -11,18 +11,18 @@
 
 # POA&M Document Criterias
 
-1. Identify the security weaknesses or deficiencies: The first step is to conduct a thorough assessment of the organization's information system to identify any vulnerabilities, weaknesses, or deficiencies. This can be done through vulnerability scanning, penetration testing, or other security assessments.
+1. <b>Identify the security weaknesses or deficiencies</b>: The first step is to conduct a thorough assessment of the organization's information system to identify any vulnerabilities, weaknesses, or deficiencies. This can be done through vulnerability scanning, penetration testing, or other security assessments.
 
-2. Prioritize the weaknesses: Once you have identified the security weaknesses, you need to prioritize them based on the severity of the risk they pose to the organization. Consider the potential impact, likelihood of exploitation, and ease of remediation.
+2. <b>Prioritize the weaknesses</b>: Once you have identified the security weaknesses, you need to prioritize them based on the severity of the risk they pose to the organization. Consider the potential impact, likelihood of exploitation, and ease of remediation.
 
-3. Create a plan of action: For each prioritized weakness, create a plan of action that outlines the specific steps needed to address the issue. This plan should include a description of the weakness, the responsible parties, and a timeline for completion.
+3. <b>Create a plan of action</b>: For each prioritized weakness, create a plan of action that outlines the specific steps needed to address the issue. This plan should include a description of the weakness, the responsible parties, and a timeline for completion.
 
-4. Assign roles and responsibilities: Identify the individuals or teams responsible for completing each task in the plan. This may include members of the IT department, security professionals, or other stakeholders.
+4. <b>Assign roles and responsibilities</b>: Identify the individuals or teams responsible for completing each task in the plan. This may include members of the IT department, security professionals, or other stakeholders.<b>
 
-5. Establish milestones: Set specific milestones or checkpoints that will be used to measure progress towards achieving the objectives outlined in the plan. These milestones should be realistic, achievable, and measurable.
+5. <b>Establish milestones</b>: Set specific milestones or checkpoints that will be used to measure progress towards achieving the objectives outlined in the plan. These milestones should be realistic, achievable, and measurable.
 
-6. Determine resource requirements: Identify the resources needed to execute the plan, including personnel, funding, and technology. Ensure that the resources allocated are sufficient to complete the tasks within the specified timeframe.
+6. <b>Determine resource requirements</b>: Identify the resources needed to execute the plan, including personnel, funding, and technology. Ensure that the resources allocated are sufficient to complete the tasks within the specified timeframe.
 
-7. Establish monitoring and reporting procedures: Establish procedures to monitor progress towards achieving the milestones and reporting on the status of the plan. This may involve regular status meetings, progress reports, or other methods of communication.
+7. <b>Establish monitoring and reporting procedures</b>: Establish procedures to monitor progress towards achieving the milestones and reporting on the status of the plan. This may involve regular status meetings, progress reports, or other methods of communication.
 
-8. Review and update regularly: Finally, the POAM should be reviewed and updated regularly to ensure that it remains relevant and effective. As new vulnerabilities are identified or existing ones are mitigated, the plan should be updated to reflect these changes.
+  8. <b>Review and update regularly</b>: Finally, the POAM should be reviewed and updated regularly to ensure that it remains relevant and effective. As new vulnerabilities are identified or existing ones are mitigated, the plan should be updated to reflect these changes.
