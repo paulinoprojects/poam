@@ -26,3 +26,8 @@
 7. <b>Establish monitoring and reporting procedures</b> : Establish procedures to monitor progress towards achieving the milestones and reporting on the status of the plan. This may involve regular status meetings, progress reports, or other methods of communication.
 
   8. <b>Review and update regularly</b> : Finally, the POAM should be reviewed and updated regularly to ensure that it remains relevant and effective. As new vulnerabilities are identified or existing ones are mitigated, the plan should be updated to reflect these changes.
+
+
+
+## References
+https://www.cms.gov/files/document/cms-poam-process-guide-v11.pdf
