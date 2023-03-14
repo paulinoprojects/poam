@@ -28,6 +28,7 @@
   8. <b>Review and update regularly</b> : Finally, the POAM should be reviewed and updated regularly to ensure that it remains relevant and effective. As new vulnerabilities are identified or existing ones are mitigated, the plan should be updated to reflect these changes.
 
 Example Template: https://www.fedramp.gov/2022-06-28-update-poam-template/
+![CKSS-POAM-WORKSHEET-1024x471](https://user-images.githubusercontent.com/111991325/224872044-0091d295-793e-4e61-a473-725acac286ac.png)
 
 ## References
 https://www.cisa.gov/sites/default/files/publications/Federal_Government_Cybersecurity_Incident_and_Vulnerability_Response_Playbooks_508C.pdf
